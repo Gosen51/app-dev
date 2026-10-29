@@ -6,5 +6,5 @@ My first Repository in App Dev
 **3. Eu5**
 | Games | Genre |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Eu4 | Grand Strategy |
+| Hoi4 |  Grand Strategy |
