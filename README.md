@@ -4,7 +4,7 @@ My first Repository in App Dev
 **1. Eu4**
 **2. hoi4**
 **3. Eu5**
-| Games | Genre |
-| ----------- | ----------- |
-| Eu4 | Grand Strategy |
+| Games | Genre | Image/Logo |
+| ----------- | ----------- | ------------|
+| Eu4 | Grand Strategy |  	![alt text](eu4.jpg) |
 | Hoi4 |  Grand Strategy | 	![this](hoi4.jpg) |
