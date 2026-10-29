@@ -7,4 +7,4 @@ My first Repository in App Dev
 | Games | Genre |
 | ----------- | ----------- |
 | Eu4 | Grand Strategy |
-| Hoi4 |  Grand Strategy |
+| Hoi4 |  Grand Strategy | 	![this](hoi4.jpg)
